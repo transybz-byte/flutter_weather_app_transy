@@ -29,7 +29,7 @@ Giao diện tự động thay đổi hình nền dựa trên trạng thái thờ
 
 | Trời Nắng (Sunny) | Trời Mưa (Rainy) | Trời Nhiều Mây (Cloudy) |
 |:---:|:---:|:---:|
-| <img src="screenshots/sunny.png" width="200"> | <img src="screenshots/rainy.png" width="200"> | <img src="screenshots/cloudy.png" width="200"> |
+| <img src="screenshots/sunny.png" width="200"> | <img src="screenshots/rainy.png" width="200"> |<img width="422" height="989" alt="image" src="https://github.com/user-attachments/assets/ffac2cbd-a157-440a-a896-2a60b00affad" />|
 | *Hiển thị khi trời quang đãng* | *Hiển thị khi có mưa* | *Hiển thị khi trời âm u* |
 
 ---
