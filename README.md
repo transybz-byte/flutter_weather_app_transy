@@ -2,9 +2,8 @@
 
 Ứng dụng xem thời tiết thời gian thực được xây dựng bằng **Flutter**, sử dụng kiến trúc **MVVM (Provider)** và dữ liệu từ **OpenWeatherMap API**.
 
-> **Sinh viên thực hiện:** [Tên Của Bạn]  
-> **Mã số sinh viên:** [MSSV Của Bạn]  
-> **Lớp:** [Tên Lớp]
+> **Sinh viên thực hiện:** [Trần Văn Sỹ]  
+> **Mã số sinh viên:** [2224801030285]  
 
 ---
 
