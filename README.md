@@ -20,11 +20,37 @@
 
 ## 📸 Hình ảnh minh họa (Screenshots)
 
-| Màn hình chính (Nắng) | Màn hình chính (Mưa) | Tìm kiếm & Chi tiết |
-|:---:|:---:|:---:|
-| <img src="screenshots/home_sunny.png" width="250"> | <img src="screenshots/home_rainy.png" width="250"> | <img src="screenshots/details.png" width="250"> |
+## 📸 Các chức năng chính (Screenshots)
 
-*(Lưu ý: Bạn cần thay thế đường dẫn ảnh trong thư mục screenshots tương ứng)*
+Dưới đây là hình ảnh minh họa cho các chức năng đã hoàn thiện của ứng dụng:
+
+### 1. 🌅 Hình nền động theo thời tiết (Dynamic Background)
+Giao diện tự động thay đổi hình nền dựa trên trạng thái thời tiết thực tế (Nắng, Mưa, Mây...).
+
+| Trời Nắng (Sunny) | Trời Mưa (Rainy) | Trời Nhiều Mây (Cloudy) |
+|:---:|:---:|:---:|
+| <img src="screenshots/sunny.png" width="200"> | <img src="screenshots/rainy.png" width="200"> | <img src="screenshots/cloudy.png" width="200"> |
+| *Hiển thị khi trời quang đãng* | *Hiển thị khi có mưa* | *Hiển thị khi trời âm u* |
+
+---
+
+### 2. 📊 Thông tin chi tiết & Dự báo (Details & Forecast)
+Hiển thị đầy đủ các chỉ số nâng cao và danh sách dự báo thời tiết cho các khung giờ tiếp theo.
+
+| Thông tin chi tiết | Danh sách dự báo |
+|:---:|:---:|
+| <img src="screenshots/details.png" width="200"> | <img src="screenshots/forecast.png" width="200"> |
+| *Gió, Ẩm, Mưa, Cảm giác như, Mọc/Lặn* | *Dự báo thời tiết 3h/lần ngang* |
+
+---
+
+### 3. 🔍 Tìm kiếm thành phố (Search City)
+Cho phép người dùng nhập tên thành phố bất kỳ để xem thời tiết.
+
+| Hộp thoại Tìm kiếm | Kết quả sau tìm kiếm |
+|:---:|:---:|
+| <img src="screenshots/search_dialog.png" width="200"> | <img src="screenshots/search_result.png" width="200"> |
+| *Nhập tên thành phố (VD: Hanoi)* | *Dữ liệu được cập nhật ngay lập tức* |
 
 ---
 
