@@ -18,8 +18,6 @@
 
 ---
 
-## 📸 Hình ảnh minh họa (Screenshots)
-
 ## 📸 Các chức năng chính (Screenshots)
 
 Dưới đây là hình ảnh minh họa cho các chức năng đã hoàn thiện của ứng dụng:
@@ -39,7 +37,7 @@ Hiển thị đầy đủ các chỉ số nâng cao và danh sách dự báo th�
 
 | Thông tin chi tiết | Danh sách dự báo |
 |:---:|:---:|
-| <img src="screenshots/details.png" width="200"> | <img src="screenshots/forecast.png" width="200"> |
+| <img width="417" height="992" alt="image" src="https://github.com/user-attachments/assets/46cdfaef-9560-4ffd-9108-3524cb622805" /> | <<img width="426" height="984" alt="image" src="https://github.com/user-attachments/assets/21a7c94d-f1b6-402c-8a7e-ed05635f3ac6" /> |
 | *Gió, Ẩm, Mưa, Cảm giác như, Mọc/Lặn* | *Dự báo thời tiết 3h/lần ngang* |
 
 ---
@@ -49,8 +47,8 @@ Cho phép người dùng nhập tên thành phố bất kỳ để xem thời ti
 
 | Hộp thoại Tìm kiếm | Kết quả sau tìm kiếm |
 |:---:|:---:|
-| <img src="screenshots/search_dialog.png" width="200"> | <img src="screenshots/search_result.png" width="200"> |
-| *Nhập tên thành phố (VD: Hanoi)* | *Dữ liệu được cập nhật ngay lập tức* |
+| <img width="421" height="987" alt="image" src="https://github.com/user-attachments/assets/e47dfe83-5bed-4a74-9acb-49b0b7003810" /> | <img width="423" height="995" alt="image" src="https://github.com/user-attachments/assets/490ba8ce-e375-4e63-b621-532f0683fba1" /> |
+| *Nhập tên thành phố (VD em nhập : LonDon)* | *Dữ liệu được cập nhật ngay lập tức* |
 
 ---
 
